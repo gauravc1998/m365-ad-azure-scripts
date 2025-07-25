@@ -10,3 +10,10 @@ This repository contains a collection of PowerShell scripts to manage and automa
 
 ## 📂 Structure
 
+/Microsoft365 -> Scripts for M365 management
+/AD -> Scripts for Active Directory
+/Azure -> Scripts for Azure
+/Utils -> Generic helper scripts
+
+
+Feel free to explore and use these scripts in your daily tasks or as a learning resource.
