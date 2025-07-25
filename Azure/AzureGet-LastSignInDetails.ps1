@@ -6,7 +6,7 @@ Get the last interactive and non-interactive sign-in date for all users in Azure
 This script uses Microsoft Graph to pull the most recent interactive and non-interactive sign-in logs per user in a hybrid Azure AD environment.
 
 .AUTHOR
-Gaurav Chaturvedi
+Gauti1998
 
 .REQUIREMENTS
 - Microsoft Graph PowerShell SDK
