@@ -1,0 +1,1 @@
+# Sample: Get Azure VMs
